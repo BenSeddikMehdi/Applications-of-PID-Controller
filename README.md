@@ -37,6 +37,15 @@ From the figure above, we can derive the following governing equations based on 
 
 ![02](https://user-images.githubusercontent.com/43390471/50570717-7d955800-0d8d-11e9-95ff-6dc1629f5262.png)
 
+## Second Model
+
+In this Model I decided to start converting the first Model Of DC Motor which means find the dual of the model so,
+
+
+I replaced the Developed Model of DC Motor with its correponding transfer function. The figure below shows us the change :
+
+
+
 
 
 
