@@ -39,12 +39,18 @@ From the figure above, we can derive the following governing equations based on 
 
 ## Second Model / S Domain
 
-In this Model I decided to start converting the first Model Of DC Motor which means find the dual of the model so,
+In this Model we decided to start converting the first Model Of DC Motor which means find the dual of the model so.
 
 However, during this example we will be looking at the position as the output. We can obtain the position by integrating the speed, therefore, we just need to divide the above transfer function by s.
 
+![03](https://user-images.githubusercontent.com/43390471/50570925-b71d9180-0d94-11e9-9e7c-77b68aac6d9f.png)
 
-I replaced the Developed Model of DC Motor with its correponding transfer function. The figure below shows us the change :
+
+We replaced the Developed Model of DC Motor with its correponding transfer function. The figure below shows us the change :
+
+
+
+
 
 
 
