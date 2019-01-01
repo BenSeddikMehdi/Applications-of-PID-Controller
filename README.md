@@ -33,6 +33,11 @@ In SI units, the motor torque and back emf constants are equal, that is, $K_t = 
 From the figure above, we can derive the following governing equations based on Newton's 2nd law and Kirchhoff's voltage law :
 
 
+![01](https://user-images.githubusercontent.com/43390471/50570709-4757d880-0d8d-11e9-90f0-a0a7865565e2.png)
+
+
+
+
 
 
 
