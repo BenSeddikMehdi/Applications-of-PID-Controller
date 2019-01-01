@@ -49,6 +49,9 @@ However, during this example we will be looking at the position as the output. W
 We replaced the Developed Model of DC Motor with its correponding transfer function. The figure below shows us the change :
 
 
+![transferfunction](https://user-images.githubusercontent.com/43390471/50570940-11b6ed80-0d95-11e9-9ea5-a81160625791.png)
+
+
 
 
 
