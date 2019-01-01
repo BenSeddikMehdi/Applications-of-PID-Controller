@@ -35,6 +35,9 @@ From the figure above, we can derive the following governing equations based on 
 
 ![01](https://user-images.githubusercontent.com/43390471/50570709-4757d880-0d8d-11e9-90f0-a0a7865565e2.png)
 
+![02](https://user-images.githubusercontent.com/43390471/50570717-7d955800-0d8d-11e9-95ff-6dc1629f5262.png)
+
+
 
 
 
